@@ -1,0 +1,49 @@
+item_1: "stone_sword" # Id de l'item
+name_item_1: "nom1" # Nom de l'item dans le menu
+command_item_1: "/kit" # Commande exécuté quand on clique sur l'item
+slot_item_1: 11 # Slot sur lequel l'item est placé l'item
+
+item_2: "stone_sword"
+name_item_2: "nom2"
+command_item_2: "/kit"
+slot_item_2: 13
+
+item_3: "stone_sword"
+name_item_3: "nom3"
+command_item_3: "/kit"
+slot_item_3: 15
+
+item_4: "stone_sword"
+name_item_4: "nom4"
+command_item_4: "/kit"
+slot_item_4: 21
+
+item_5: "stone_sword"
+name_item_5: "nom5"
+command_item_5: "/kit"
+slot_item_5: 23
+
+item_6: "stone_sword"
+name_item_6: "nom6"
+command_item_6: "/kit"
+slot_item_6: 29
+
+item_7: "stone_sword"
+name_item_7: "nom7"
+command_item_7: "/kit"
+slot_item_7: 31
+
+item_8: "stone_sword"
+name_item_8: "nom8"
+command_item_8: "/kit"
+slot_item_8: 33
+
+item_9: "stone_sword"
+name_item_9: "nom9"
+command_item_9: "/kit"
+slot_item_9: 39
+
+item_10: "stone_sword"
+name_item_10: "nom10"
+command_item_10: "/kit"
+slot_item_10: 41

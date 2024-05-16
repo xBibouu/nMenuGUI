@@ -1,0 +1,9 @@
+name: Menu
+version: 1.0
+api: 5.0.0
+main: xBibou\Main
+author: xBibou
+
+permissions:
+  menu.use:
+    default: true
